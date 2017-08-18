@@ -1,0 +1,28 @@
+{
+  "title": "Game of thrones",
+  "seasons": {
+            "s1": {
+              "e1": "https://1fiafzq.oloadcdn.net/dl/l/AR3ofA1aaT_VT0lN/I6H6PmnkALo/Game.Of.Thrones.S01E01.1080p.5.1Ch.BluRay.mp4?mime=true",
+              "e2": "https://1fhjm3q.oloadcdn.net/dl/l/iVR66BBQ_Xa75qTv/anN99I_JlsM/game.of.thrones.s01e02.dvdrip.xvid-reward.avi.mp4?mime=true",
+              "e3": "https://1fgm8gu.oloadcdn.net/dl/l/LNQ-uw4n-SU13o5J/ZW2fOhmp1Zk/game.of.thrones.s01e03.hdtv.xvid-fqm.avi.mp4?mime=true",
+              "e4": "https://1fiagfc.oloadcdn.net/dl/l/_wOGCgzGR1XYfvw8/ucTpFvU3JIk/Game.Of.Thrones.S01E04.1080p.5.1Ch.BluRay.mp4?mime=true",
+              "e5": "https://1fgqftt.oloadcdn.net/dl/l/mPu8elnrfdzebxhy/hY6PPmKeYos/game.of.thrones.s01e05.hdtv.xvid-fqm.avi.mp4?mime=true",
+              "e6": "https://pgli92.oloadcdn.net/dl/l/keiqqNaoNeOeH9rI/uTFn-Igz0jU/Game.Of.Thrones.S01E06.1080p.5.1Ch.BluRay.mp4?mime=true",
+              "e7": "https://1fiag02.oloadcdn.net/dl/l/KORa5_wGQJNkWy2G/f29SW6kYL1s/game.of.thrones.s01e07.dvdrip.xvid-reward.avi.mp4?mime=true",
+              "e8": "https://oqbkis.oloadcdn.net/dl/l/LL6DfNamLvgsv8Xa/RcC6gpqnLss/Game.Of.Thrones.S01E08.1080p.5.1Ch.BluRay.mp4?mime=true",
+              "e9": "",
+              "e10": "https://pgli2u.oloadcdn.net/dl/l/4DEA8L1ip_xd77jl/Odpb5m1tgiU/Game.of.Thrones-S01E10.mp4.mp4?mime=true",
+            }
+  },
+  "properties": {
+    "primary_color": "6B6B6B",
+    "secondary_color": "535353",
+    "tertiary_color": "959595",
+    "quaternary_color": "DEDEDE",
+    "quaternary_hover_color": "CAC8C8",
+    "font_color": "FFFFFF",
+    "popout_bg_color": "6B6B6B",
+    "popout_bars_color": "fff"
+
+  }
+}
